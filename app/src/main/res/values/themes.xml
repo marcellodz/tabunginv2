@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TabungIn" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.TabungIn.Cropper" parent="Theme.AppCompat">
+        <item name="colorPrimary">#212121</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+    </style>
+
+
+</resources>

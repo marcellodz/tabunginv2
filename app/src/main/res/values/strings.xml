@@ -1,0 +1,57 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">TabungIn</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="tutup">Tutup</string>
+    <string name="ya_hapus">Ya, Hapus</string>
+
+    <!-- Wishlist -->
+    <string name="tambah_wishlist">Tambah Wishlist Baru</string>
+    <string name="nama_wishlist">Nama Wishlist</string>
+    <string name="target_tabungan">Target Tabungan</string>
+    <string name="edit_wishlist">Edit Wishlist</string>
+    <string name="hapus_wishlist">Hapus Wishlist</string>
+    <string name="konfirmasi_hapus_wishlist">Apakah kamu yakin ingin menghapus wishlist ini? Tindakan ini tidak dapat dibatalkan.</string>
+
+    <!-- Riwayat -->
+    <string name="tambah_edit_catatan">Tambah / Edit Catatan Tabungan</string>
+    <string name="nominal">Nominal</string>
+    <string name="penambahan">Penambahan</string>
+    <string name="pengurangan">Pengurangan</string>
+    <string name="detail_catatan">Detail Catatan</string>
+    <string name="tanggal_format">Tanggal: %1$s</string>
+
+    <!-- Toast & Validation -->
+    <string name="nominal_harus_lebih_dari_nol">Nominal harus lebih besar dari 0</string>
+    <string name="pengurangan_melebihi_saldo">Pengurangan tidak boleh lebih besar dari jumlah tabungan</string>
+
+    <string name="loading">Loading…</string>
+    <string name="back">Kembali</string>
+    <string name="delete_wishlist">Hapus Wishlist</string>
+    <string name="add_saving">Tambah Tabungan</string>
+    <string name="reduction_exceeds_balance">Pengurangan melebihi saldo!</string>
+    <string name="nominal_must_be_positive">Nominal harus lebih dari 0!</string>
+    <string name="target">Target: %1$s</string>
+    <string name="progress">Progress: %1$d%%</string>
+    <string name="created_at">Tanggal Dibuat: %1$s</string>
+    <string name="collected">Terkumpul</string>
+    <string name="shortage">Kekurangan</string>
+    <string name="saving_history">Riwayat Tabungan</string>
+    <string name="no_saving_history">Belum ada riwayat tabungan</string>
+    <string name="addition">Penambahan</string>
+    <string name="reduction">Pengurangan</string>
+    <string name="switch_to_light">Switch to Light Mode</string>
+    <string name="switch_to_dark">Switch to Dark Mode</string>
+    <string name="add_wishlist">Tambah Wishlist</string>
+    <string name="tab_not_reached">Belum Tercapai</string>
+    <string name="tab_reached">Tercapai</string>
+    <string name="empty">Kosong</string>
+    <string name="no_wishlist">Belum ada wishlist</string>
+    <string name="currency_amount">Rp %1$d</string>
+    <string name="percentage_collected">%1$d%% terkumpul (Rp %2$d)</string>
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+</resources>
